@@ -35,7 +35,7 @@ Follow these steps to get the project running on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/Amalthea_Hackathon.git](https://github.com/your-username/Amalthea_Hackathon.git)
+git clone [https://github.com/ramakrishna507/Amalthea_Hackathon.git](https://github.com/ramakrishna507/Amalthea_Hackathon.git)
 cd Amalthea_Hackathon
 2. Backend Setup
 You'll need one terminal for the backend.
