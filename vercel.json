@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "backend/src/main.ts": {
+      "includeFiles": "prisma/**"
+    }
+  },
   "rewrites": [
     { "source": "/api/(.*)", "destination": "/backend/src/main.ts" }
   ]
